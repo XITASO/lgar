@@ -1,0 +1,22 @@
+{
+    "folder_path_slrs": "./implementation/data/tar2019/qualitative/",
+    "file_path_slr_infos": "./implementation/data/tar2019/qualitative/info.json",
+    "llm_client_output_directory_path": "./implementation/data/paper/scales/qualitative/",
+    "relevance_lower_value": "0",
+    "relevance_upper_value": "19",
+    "folder_path_few_shot_examples": "./implementation/data/few_shot_examples/",
+    "llm_client_config": {
+        "is_few_shot": false,
+        "ordering_few_shot_examples": "",
+        "different_examples": false,
+        "few_shot_example_seed": 42,
+        "prompting_technique": "zero_shot",
+        "temperature": 0,
+        "number_consistency_path": 2,
+        "system_message_type": "system_message_rq",
+        "num_of_max_requests": 4,
+        "name_of_model": "Llama3.3-70B",
+        "path_to_model": "path/to/Meta-Llama-3.3-70B-Instruct",
+        "path_to_reranker": ""
+    }
+}

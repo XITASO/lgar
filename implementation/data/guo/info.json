@@ -1,0 +1,68 @@
+{
+  "ab": {
+    "title": "Differential efficacy and safety of anti-SARS-CoV-2 antibody therapies for the management of COVID-19: a systematic review and network meta-analysis",
+    "inclusion_criteria": "- RCTs that included patients diagnosed with COVID-19 through laboratory or radiographic methods\n- RCTs that compared the efficacy and/or safety of an anti-SARS-CoV-2 antibody product against standard of care or against another anti-SARS-CoV-2 antibody regimen\n- RCts that provide data for any of our outcomes of interest: (1) time to viral clearance (negative SARS-CoV-2 RT-PCR test); (2) incidence of allcause mortality; (3) duration of hospitalization; (4) duration of ICU hospitalization; (5) incidence of hospitalization; and (6) incidence of progression to invasive mechanical ventilation or ECMO",
+    "exclusion_criteria": "- Studies about antibody products that are not specific to SARS-CoV-2, such as immunomodulating mAbs and non-specific IVIgs",
+    "research_questions": "What is the relative efficacy and safety of different anti-SARS-CoV-2 antibody regimens based on randomized controlled trial (RCT) data?"
+  },
+  "aiha": {
+    "title": "Efficacy of therapeutic plasma exchange for treatment of autoimmune hemolytic anemia: A systematic review and meta-analysis of randomized controlled trials",
+    "inclusion_criteria": "- Parallel RCTs that included adult (age ≥ 18) AIHA patients\n- Parallel RCTs that compared the use of TPE with no TPE\n- Parallel RCTs that reported any of our primary outcomes (remission incidence) or secondary outcomes of interest (incidences of adverse events, as well as the following hematological parameters based on the lab results from the latest follow-up: Hemoglobin count in g/L, RBC count in 1012/L, Reticulocyte percentage, Total bilirubin in μmol/L, Hematocrit)\n- Studies that employed the same concurrent therapies for both the control and the TPE arms (ie, concurrent therapy vs concurrent therapy + TPE).\n- Studies that administered other AIHA therapies concurrently with TPE",
+    "exclusion_criteria": "/",
+    "research_questions": "What is the efficacy and safety of therapeutic plasma exchange (TPE) in adult patients with autoimmune hemolytic anemia (AIHA)?"
+  },
+  "child": {
+    "title": "Prevalence of mental health symptoms in children and adolescents during the COVID-19 pandemic: A meta-analysis",
+    "inclusion_criteria": "- Publications that are primary cross-sectional or longitudinal studies\n- Publications that included children and adolescents ≤18 years of age or students enrolled in primary or secondary educational institutions\n- Publications that reported the prevalence of depressive symptoms, anxiety symptoms, and/or sleep disturbances, as assessed using self-reported instruments or clinical interviews",
+    "exclusion_criteria": "- Studies specifically targeting children with special needs or pre-existing mental health disorders",
+    "research_questions": "- What is the prevalence of depressive symptoms, anxiety symptoms, and sleep disturbances in children and adolescents during the COVID-19 pandemic?\n- How do covariates such as grade level, electronics use, and physical activity influence the mental health outcomes (depression, anxiety, and sleep disturbances) in this population?"
+  },
+  "gc": {
+    "title": "Efficacy and safety of corticosteroid regimens for the treatment of hospitalized COVID-19 patients: a meta-analysis",
+    "inclusion_criteria": "- Study types: randomized and non-randomized comparative studies\n- Studies that compared any corticosteroid therapy with standard of care, or compared any corticosteroid therapy with an adjuvant therapy to adjuvant therapy alone, and included hospitalized COVID-19 patients\n- Studies using adjuvant therapies if the adjuvant therapy between the control and experimental arms are the same",
+    "exclusion_criteria": "/",
+    "research_questions": "What is the efficacy and safety of corticosteroids for treating hospitalized COVID-19 patients?"
+  },
+  "hcq": {
+    "title": "Efficacy of chloroquine and hydroxychloroquine for the treatment of hospitalized COVID-19 patients: a meta-analysis",
+    "inclusion_criteria": "- Study types: randomized and non-randomized comparative studies\n- Studies that compared hydroxychloroquine or chloroquine as a monotherapy or in combination with azithromycin with standard of care, or compared hydroxychloroquine or chloroquine with adjuvant therapies to adjuvant therapies alone, and included hospitalized COVID-19 patients\n- For studies involving hydroxychloroquine with adjuvant therapies, we only included studies that used the same adjunctive therapy for both its intervention and control arms",
+    "exclusion_criteria": "/",
+    "research_questions": "What is the efficacy and safety of hydroxychloroquine/chloroquine, with or without azithromycin, in treating hospitalized COVID-19 patients?"
+  },
+  "ivm": {
+    "title": "Efficacy and safety of ivermectin for the treatment of COVID-19: a systematic review and meta-analysis",
+    "inclusion_criteria": "- Study types: randomized and non-randomized comparative studies\n- Studies that compared ivermectin to standard of care or a control group receiving placebo\n- Studies that included adult COVID-19 inpatients and/or outpatients\n- Studies that reported any of the following outcomes: time to viral clearance, duration of hospitalization, mortality incidence, incidence of progression to mechanical ventilation, all-cause adverse events, incidence of investigator-defined serious adverse events",
+    "exclusion_criteria": "- Non-peer-reviewed studies",
+    "research_questions": "- What is the effect of ivermectin on the duration of viral clearance, hospitalization, and mortality in COVID-19 patients?\n- How does ivermectin impact the incidence of mechanical ventilation and adverse events in COVID-19 patients?"
+  },
+  "lpvr": {
+    "title": "Efficacy of lopinavir/ritonavir combination therapy for the treatment of hospitalized COVID-19 patients: a systematic review and meta-analysis incorporating additional data from China",
+    "inclusion_criteria": "- Studies that are Randomized Controlled Trials (RCTs) or comparative non-randomized observational studies\n- Studies that compared LPV/r with standard of care, or compared LPV/r with adjuvant therapies to adjuvant therapies alone, included laboratory-confirmed, hospitalized COVID-19 patients\n- Studies that used the same concurrent therapy for its intervention and control arms to minimize the effect of adjuvant therapies on treatment outcomes",
+    "exclusion_criteria": "/",
+    "research_questions": "In hospitalized patients with COVID-19 (P), does the use of lopinavir/ritonavir combination therapy (LPV/r) (I) reduce time to negative test, reduce length of hospitalization, and reduce mortality (O) compared to usual treatments, adjuvant therapies, or other pharmacotherapies (C)?"
+  },
+  "noa": {
+    "title": "Comparative efficacy of adjuvant non-opioid analgesia in adult cardiac surgical patients: A network meta-analysis",
+    "inclusion_criteria": "- Study types: randomized controlled trials\n- Studies comparing non-opioid analgesics against other active non-opioid analgesics, placebo, or no additional treatment as adjuvant therapy with standard analgesic management\n- Studies that included adult (age ≥ 18) patients undergoing cardiac surgery\n- Studies that reported any of the following outcomes: resting postoperative pain scores at 24 hours, 24 hour postoperative opioid consumption, ICU length of stay, duration of mechanical ventilation, incidence of myocardial infarction, delirium, nausea, and vomiting as defined by study investigators",
+    "exclusion_criteria": "- Studies enrolling patients undergoing minimally invasive surgery\n- Studies assessing nerve blocks and local anesthetics",
+    "research_questions": "What is the relative efficacy of adjuvant non-opioid analgesic regimens in adult cardiac surgical patients?"
+  },
+  "osce": {
+    "title": "Comparability of Objective Structured Clinical Examinations (OSCEs) and Written Tests for Assessing Medical School Students' Competencies",
+    "inclusion_criteria": "Studies that fulfilled the following criteria according to PICOS framework:\n- Population: health professional trainees (e.g., students or residents), excluding veterinary trainees\n- Intervention: OSCE stations\n- Comparator: written or typed testing methods (e.g., multiple-choice questions, short/long form answers)\n- Outcomes: overall score comparisons and individual competency domain score comparisons, as measured by the study itself\n- Study design/type: only studies that had a control/comparison group (e.g., RCTs, cohort studies, case-control studies, historical controls).\n- Furthermore, included studies had to report primary data and had to be written in English.",
+    "exclusion_criteria": "/",
+    "research_questions": "Are OSCEs a comparable evaluation method to multiple-choice or short/long answer written questions in assessing health professional trainees and, if so, for which competency domains?"
+  },
+  "raynauds": {
+    "title": "The use of acupuncture in patients with Raynaud's syndrome: a systematic review and meta-analysis of randomized controlled trials",
+    "inclusion_criteria": "- Parallel randomized controlled trials\n- Studies that recruited patients that presented with Raynaud's syndrome\n- Studies that compared the use of any acupuncture therapy (including electroacupuncture, or acupuncture with moxibustion) with an untreated or sham acupuncture group (a study is eligible if a concurrent adjuvant therapy is administered in addition to acupuncture and the control treatment)\n- Studies that reported any of the outcomes of interest: incidence of remission of Raynaud's syndrome, as defined according to individual study criteria; number of Raynaud's attacks per day after the completion of acupuncture therapy; incidence of a positive cold provocation test after the completion of acupuncture; and incidence of a positive cold stimulation test after the completion of acupuncture",
+    "exclusion_criteria": "- Studies that used different adjuvant therapies for its intervention and control arms",
+    "research_questions": "What is the effectiveness of acupuncture for the treatment of Raynaud's syndrome?"
+  },
+  "ssri": {
+    "title": "Efficacy and safety of selective serotonin reuptake inhibitors in COVID-19 management: a systematic review and meta-analysis",
+    "inclusion_criteria": "- Randomized controlled trials and non-randomized comparative cohort studies\n- Studies that included COVID-19 inpatients and/or outpatients of any age\n- Studies that compared the use of selective serotonin reuptake inhibitors (mainly fluvoxamine, fluoxetine, and citalopram/escitalopram) against standard of care or placebo\n- Studies that reported any of the following outcomes: all-cause mortality, hospitalization, composite outcome of emergency room visits or hospitalization, hypoxemia, requirement for supplemental oxygen, requirement for ventilator support, serious adverse events",
+    "exclusion_criteria": "- Studies assessing patients with past or ongoing prescriptions of selective serotonin reuptake inhibitors at the time of COVID-19 diagnosis",
+    "research_questions": "What is the efficacy and safety of SSRIs and the effect of different dosing regimens on the treatment of acute COVID-19?"
+  }
+}
